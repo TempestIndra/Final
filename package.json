@@ -1,6 +1,7 @@
 {
   "name": "next-adventure",
   "version": "0.0.1",
+  "homepage": ".",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
