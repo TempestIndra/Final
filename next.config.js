@@ -3,7 +3,7 @@ module.exports = {
 };
 
 const nextConfig = {
-  distDir: "build",
+  distDir: ".next",
 };
 
 module.exports = nextConfig;
