@@ -1,7 +1,6 @@
 {
   "name": "next-adventure",
   "version": "0.0.1",
-  "homepage": "https://TempestIndra.github.io/INST204final",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
